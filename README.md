@@ -1,8 +1,8 @@
 # Wilson M.J Cortez
 ## 🛠 Habilidades
 Html5, Css3, JavaScript, TypeScript, Php, Node, Angular, WordPress, Marketing Digital.
-#
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
+# Contato
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wilson-cortez-614454138/)
 
 
 <!--
