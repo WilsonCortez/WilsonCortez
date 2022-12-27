@@ -1,6 +1,6 @@
 # Wilson M.J Cortez
 ## 🛠 Habilidades
-Javascript, HTML, CSS...
+Html5, Css3, JavaScript, TypeScript, Php, Node, Angular, WordPress, Marketing Digital.
 
 <!--
 **WilsonCortez/WilsonCortez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
