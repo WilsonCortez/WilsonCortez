@@ -1,4 +1,6 @@
 # Wilson M.J Cortez
+## 🛠 Habilidades
+Javascript, HTML, CSS...
 
 <!--
 **WilsonCortez/WilsonCortez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
